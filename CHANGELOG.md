@@ -1,6 +1,20 @@
 # Changelog
 
 
+## [1.239.0](https://github.com/windmill-labs/windmill/compare/v1.238.0...v1.239.0) (2024-01-11)
+
+
+### Features
+
+* add configurable ordering for script's generated UI ([717ccc9](https://github.com/windmill-labs/windmill/commit/717ccc94a06ee65a5676c7d9091faf892396657e))
+* **frontend:** AG chart ([#2972](https://github.com/windmill-labs/windmill/issues/2972)) ([e3c1661](https://github.com/windmill-labs/windmill/commit/e3c166154da4251e21a5f6a6fcf5b2e101b558e1))
+
+
+### Bug Fixes
+
+* handle Etc/Unknown timezone better ([8c97ef0](https://github.com/windmill-labs/windmill/commit/8c97ef0394925b49a04c253259783be301e8f4ee))
+* only cache flow if it's a success ([589e683](https://github.com/windmill-labs/windmill/commit/589e683c27f15fcb48993f2f6e91523abef1794a))
+
 ## [1.238.0](https://github.com/windmill-labs/windmill/compare/v1.237.0...v1.238.0) (2024-01-10)
 
 
